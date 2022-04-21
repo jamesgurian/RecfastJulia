@@ -1,0 +1,2 @@
+# RecfastJulia
+This is a Julia implementation of the [Recfast++](https://arxiv.org/abs/1010.3631) code, in turn based on the older [Recfast](https://arxiv.org/abs/astro-ph/9909275) code. It has been extended to handle "atomic dark matter", including the formation of molecular states. It is a factor of ~2 slower and perhaps less stable than the legacy code, but easy to use interactively and modify further. The basic usage is explained in the Demo notebook. The code is released as is under the MIT license, with permission from the authors of Recfast++. 
